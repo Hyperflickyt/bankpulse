@@ -1,8 +1,0 @@
-<resources>
-    <!-- Compose draws the real theme; this just sets a dark splash background. -->
-    <style name="Theme.BankPulse" parent="android:Theme.Material.NoActionBar">
-        <item name="android:statusBarColor">#0B1220</item>
-        <item name="android:navigationBarColor">#0B1220</item>
-        <item name="android:windowBackground">#0B1220</item>
-    </style>
-</resources>
